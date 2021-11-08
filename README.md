@@ -1,6 +1,6 @@
 # Kickstarter-Project
 
-* クラウドファンディング成功可否を予測するモデルの実装
+* クラウドファウンディング成功可否を予測するモデルの実装
 * URL: https://www.kaggle.com/kemical/kickstarter-projects
 
 Skill UP AI インターンプロジェクト2021
@@ -32,6 +32,3 @@ Notebook4の内容
 * ベイズ最適化
 * K-means法
 * 主成分分析
-
-* 補足
-dataファイルが大きすぎてアップロードできなかったためのちほどzip 形式で追加する
