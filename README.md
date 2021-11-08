@@ -28,7 +28,7 @@ Notebook3の内容
 * ニューラルネットワーク
 
 
-Notebook4の内容
+Notebook4の内容 (随時更新中)
 * ランダムサーチ
 * ベイズ最適化
 * K-means法
